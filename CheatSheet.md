@@ -11,7 +11,7 @@ public class HelloApp {                  // The Container (Class)
     public static void main(String[] args) { // The Door (Entry Point)
         System.out.println("Text");      // The Command
     }
-}
+```
 
 ## 2. Key Terminology 📖
 
