@@ -37,3 +37,13 @@ public class WorkshopExercise {
         // Read the error message. Then fix it back.
     }
 }
+
+```
+
+## 📚 Resources
+
+* **Cheat Sheet:** 👉 [Click here to open the Cheat Sheet](CheatSheet.md)
+* [Oracle Java Documentation](https://docs.oracle.com/en/java/)
+
+Happy Coding!
+*Anna Praszczyk*
